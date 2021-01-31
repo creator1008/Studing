@@ -1,1 +1,1 @@
-# Studing
+# AI Studing
